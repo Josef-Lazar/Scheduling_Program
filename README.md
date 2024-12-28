@@ -1,2 +1,2 @@
 # Scheduling_Program
- find times when different people can meet
+For details on how the program works, check out the 'Computer Science Moderation Paper.pdf' file in this repository.
